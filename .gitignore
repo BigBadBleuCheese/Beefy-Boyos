@@ -1,6 +1,4 @@
-bin/
-obj/
 dist/
-probe-output/
+obj/
 __pycache__/
 *.pyc
