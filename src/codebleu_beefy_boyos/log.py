@@ -1,6 +1,6 @@
 import time
 
-from beefy_boyos import paths
+from codebleu_beefy_boyos import paths
 
 _started = False
 

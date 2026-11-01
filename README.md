@@ -30,7 +30,7 @@ Any of the slider mods can be missing. Beefy Boyos checks which ones are install
 
 ## Installing
 
-Put `beefy_boyos.ts4script` in your Mods folder, either at the top level or one folder down. The first time the game loads it, it writes `BeefyBoyos.ini` next to itself.
+Put `CodeBleu-BeefyBoyos.ts4script` in your Mods folder, either at the top level or one folder down. The first time the game loads it, it writes `BeefyBoyos.ini` next to itself.
 
 ## Settings
 
@@ -54,4 +54,4 @@ Changes apply to Sims generated after the file is read. That happens at game loa
 py -3.7 build.py
 ```
 
-This writes `dist/beefy_boyos.ts4script`. The game only accepts scripts compiled with Python 3.7.
+This writes `dist/CodeBleu-BeefyBoyos.ts4script`. The game only accepts scripts compiled with Python 3.7.

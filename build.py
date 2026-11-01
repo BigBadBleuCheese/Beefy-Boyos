@@ -10,7 +10,7 @@ root = pathlib.Path(__file__).resolve().parent
 source = root / 'src'
 distribution = root / 'dist'
 distribution.mkdir(exist_ok=True)
-target = distribution / 'beefy_boyos.ts4script'
+target = distribution / 'CodeBleu-BeefyBoyos.ts4script'
 compiled = root / 'obj' / 'pyc'
 with zipfile.ZipFile(target, 'w', zipfile.ZIP_STORED) as archive:
     for module in sorted(source.rglob('*.py')):

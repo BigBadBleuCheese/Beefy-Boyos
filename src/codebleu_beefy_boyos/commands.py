@@ -1,6 +1,6 @@
 import sims4.commands
 
-from beefy_boyos import hook
+from codebleu_beefy_boyos import hook
 
 
 @sims4.commands.Command('beefyboyos.reload', command_type=sims4.commands.CommandType.Live)

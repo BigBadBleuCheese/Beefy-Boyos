@@ -1,7 +1,7 @@
 import configparser
 import os
 
-from beefy_boyos import log, paths
+from codebleu_beefy_boyos import log, paths
 
 DEFAULT_TEXT = """; Beefy Boyos
 ; Gives randomly generated male Sims (teen through elder) builds that use

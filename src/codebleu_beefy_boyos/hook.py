@@ -5,7 +5,7 @@ from sims.sim_info_types import Age, Gender, Species
 import sims.sim_spawner
 import sims4.resources
 
-from beefy_boyos import config, log
+from codebleu_beefy_boyos import config, log
 
 SIM_MODIFIER = 0xC5F6763E
 MUSCLES = {0xDE6748A8566A5819: 'arms', 0xE657C169CDD24312: 'forearm', 0xCDEB59691E2516A8: 'back', 0xCD712B208EAB24CB: 'pecs', 0x9BFA831DFFB9033C: 'legs', 0xB2F3991F2D306A8B: 'calves'}

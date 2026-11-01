@@ -14,5 +14,5 @@ jobs:
       - run: python build.py
       - uses: actions/upload-artifact@v7
         with:
-          path: dist/beefy_boyos.ts4script
+          path: dist/CodeBleu-BeefyBoyos.ts4script
           archive: false
